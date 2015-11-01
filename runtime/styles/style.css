@@ -93,7 +93,7 @@
 	padding-top: 20px;
 }
 .page.cover .front .content{
-	background: #ddd url(../images/cover.jpg) no-repeat center center;
+	background: #ddd url(../../contents/images/cover.jpg) no-repeat center center;
 	background-size: cover;
 }
 .page.cover-back .back .content{
@@ -193,42 +193,8 @@ a.f-ref{
 	background: rgba(255,255,255,0.6);
 	box-shadow: 0 95px 0px rgba(255,255,255,0.4);
 }
-.f-title{
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	height: 50px;
-	text-align:center;
-	width: 100%;
-}
-.f-title h2{
-	line-height: 50px;
-	margin: 0;
-	font-weight: 300;
-	font-size: 28px;
-	color: #aaa;
-	float: left;
-	width: 33%;
-}
-.f-title a{
-	width: 33%;
-	float: left;
-	text-align: right;
-	overflow: hidden;
-	height: 50px;
-	font-size: 12px;
-	line-height: 50px;
-	padding: 0px 15px;
-	color: #777;
-	font-style: italic;
-	font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
-}
-.f-title a:first-child{
-	text-align: left;
-}
-.f-title a:hover{
-	color: #000;
-}
+
+
 .box{
 	border-top: 1px solid #f2f2f2;
 	float: left;
@@ -246,32 +212,32 @@ a.f-ref{
 	background-size: cover;
 }
 .img-1{
-	background-image: url(../images/1.jpg);
+	background-image: url(../../contents/images/1.jpg);
 }
 .img-2{
-	background-image: url(../images/2.jpg);
+	background-image: url(../../contents/images/2.jpg);
 	height: 60%;
 }
 .img-3{
-	background-image: url(../images/3.jpg);
+	background-image: url(../../contents/images/3.jpg);
 }
 .img-4{
-	background-image: url(../images/4.jpg);
+	background-image: url(../../contents/images/4.jpg);
 }
 .img-5{
-	background-image: url(../images/5.jpg);
+	background-image: url(../../contents/images/5.jpg);
 }
 .img-6{
-	background-image: url(../images/6.jpg);
+	background-image: url(../../contents/images/6.jpg);
 }
 .img-7{
-	background-image: url(../images/7.jpg);
+	background-image: url(../../contents/images/7.jpg);
 }
 .img-8{
-	background-image: url(../images/8.jpg);
+	background-image: url(../../contents/images/8.jpg);
 }
 .img-9{
-	background-image: url(../images/9.jpg);
+	background-image: url(../../contents/images/9.jpg);
 }
 .box h3{
 	padding: 10px 0px;
@@ -458,7 +424,7 @@ a.f-ref{
 		height: 50% !important;
 		margin: 0;
 	}
-	.cover-elements{
+	#cover-elements{
 		display: none;
 	}
 	

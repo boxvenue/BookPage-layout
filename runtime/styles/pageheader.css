@@ -1,0 +1,30 @@
+.f-title { position: absolute; top: 0px; left: 0px; height: 50px; width: 100%; }
+
+.header-icons { color: gray; }
+.header-icons:hover { color: darkblue; }
+
+.ios-round-btn { position: relative; display: inline-block; width: 26px; height: 26px; border: 1px solid gray; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; padding: 3px 0px 0px 0px; text-align: center; }
+
+#header-left { position: relative; float: left; display: inline-block; width: 33%; vertical-align: center; height: 50px; padding: 10px 0 0 10px; }
+
+#header-left label { cursor: pointer; }
+
+#header-right { position: relative; float: right; display: inline-block; width: 33%; height: 50px; padding: 10px 10px 0 0; text-align: right; }
+
+#header-right label { cursor: pointer; }
+
+#toggle-nav-menu { display: none; }
+
+#search-page { display: none; }
+
+#section-nav-menu { display: none; }
+
+#section-nav-menu:checked ~ #bubble { display: all; }
+
+#header-center { position: relative; float: center; display: inline-block; width: 33%; height: 50px; font-weight: 300; font-size: 30px; color: #aaa; text-align: center; vertical-align: middle; cursor: pointer; }
+
+#bubble { display: none; position: relative; left: 2%; top: 2%; width: 95%; height: 95%; padding: 0px; background: #FFFFFF; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; border: #7F7F7F solid 1px; }
+#bubble:after { content: ""; position: absolute; border-style: solid; border-width: 0 14px 15px; border-color: #FFFFFF transparent; display: block; width: 0; z-index: 1; top: -15px; left: 50%; }
+#bubble:before { content: ""; position: absolute; border-style: solid; border-width: 0 14px 15px; border-color: #7F7F7F transparent; display: block; width: 0; z-index: 0; top: -16px; left: 50%; }
+
+/*# sourceMappingURL=pageheader.css.map */
