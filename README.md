@@ -3,8 +3,8 @@
  
 ###Version history
 
-*Added PHP enabled live content with ajax support
-*Added header buttons for tablet and Smartphone compatibility
+1. Added PHP enabled live content with ajax support
+2. Added header buttons for tablet and Smartphone compatibility
 
 ###Security
 
