@@ -2,8 +2,9 @@
  An experimental page layout that let's you navigate pages by swiping or dragging as in a booklet, inspired by Flipboard.
  
 ###Version history
--Added PHP enabled live content with ajax support
--Added header buttons for tablet and Smartphone compatibility
+
+*Added PHP enabled live content with ajax support
+*Added header buttons for tablet and Smartphone compatibility
 
 ###Security
 
