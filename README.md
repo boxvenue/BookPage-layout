@@ -1,17 +1,18 @@
 # flipboard-layout
  An experimental page layout that let's you navigate pages by swiping or dragging as in a booklet, inspired by Flipboard.
  
-##Version history
+###Version history
 -Added PHP enabled live content with ajax support
 -Added header buttons for tablet and Smartphone compatibility
 
-##Security
+###Security
 
 Please report security issues to info@aeonlabs.de
 
-##License
+###License
 
 Code is under the Creative Commons Attribution license. although some code other licenses may apply.
 
 ##Sponsors
+![alt tag](http://aeonlabs.de/main/contents/images/logo.png)
 [Visit AeonLabs!](http://www.Aeonlabs.de)
